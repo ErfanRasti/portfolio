@@ -86,7 +86,7 @@ const CONFIG = {
   seo: { title: '', description: '', imageURL: '' },
   social: {
     email: 'erfanrasty@gmail.com',
-    linkedin: 'erfan-rasti-6a80561a1',
+    linkedin: 'erfan-rasti',
     x: '',
     mastodon: '',
     researchGate: '',
